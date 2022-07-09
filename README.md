@@ -5,3 +5,6 @@ studied about the types of clustering today.
 Moving on to data set 
 
 starting with data modifications today
+
+will begin with vizualizations on monday onwards
+
