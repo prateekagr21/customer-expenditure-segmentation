@@ -6,5 +6,5 @@ Moving on to data set
 
 starting with data modifications today
 
-will begin with vizualizations on monday onwards
 
+started visualizations with matplotlib and seaborn libraries for now
