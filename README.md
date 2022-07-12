@@ -8,3 +8,5 @@ starting with data modifications today
 
 
 started visualizations with matplotlib and seaborn libraries for now
+
+done with the vizualizations, will upload dataset now
