@@ -15,3 +15,6 @@ done with the vizualizations,
 dataset uploaded today
 
 now, data engg
+
+Moving on to scaling the data
+Followed by the training
