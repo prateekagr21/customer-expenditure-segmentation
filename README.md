@@ -17,4 +17,6 @@ dataset uploaded today
 now, data engg
 
 Moving on to scaling the data
-Followed by the training
+
+
+Started with splitting the train test data and analysing the x and y factor
