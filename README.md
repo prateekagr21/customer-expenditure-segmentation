@@ -22,5 +22,5 @@ Moving on to scaling the data
 Started with splitting the train test data and analysing the x and y factor
 
 
-started implementing algorithms today
+started implementing algorithms today!!
 
