@@ -24,3 +24,6 @@ Started with splitting the train test data and analysing the x and y factor
 
 started implementing algorithms today!!
 
+
+Started with Feature selection today, Followed by the Dimentionality reduction.
+
