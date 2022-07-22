@@ -29,3 +29,5 @@ Started with Feature selection today,
 
 Followed by the Dimentionality reduction using PCA
 
+now making the main prediction o
+
