@@ -32,4 +32,5 @@ Followed by the Dimentionality reduction using PCA
 now making the main clusters
 
 Done with this one
+uploading the file tomorrow with some changes
 
