@@ -33,6 +33,7 @@ that positive customer relations can provide for your company._
 
 ![customer3](https://user-images.githubusercontent.com/73397927/180948955-ccf00dbc-bb39-4419-a55e-8320b09d93a2.jpg)
 
+
 # For Solving this Usecase, What I have done is :
 - Collected the data and organized it to form a meaningful dataset.
 - Checked for null values and took care of it.
@@ -42,28 +43,57 @@ that positive customer relations can provide for your company._
 - Used correlations to form a heatmap.
 
 
+
 # For Visualizations, i used :
 - Visualizations were made by using Matplotlib and Seaborn Libraries..!!
 ![visualize](https://user-images.githubusercontent.com/73397927/175773985-a8800afe-f751-4d44-be82-45401a12e475.jpg)
 
 
-# Did Data Pre-Processing and Feature Engineering :
-- Made dummies for improving my model's Performance.
-- One-hot-Encoding was Implemented.
-- Made Binary Classifications Using Label Encoder and Standard Scaler
+
+# Did Data Pre-Processing and Feature Selection Engineering :
+- Made Binary Classifications Using :
+- Label Encoder 
+- and Standard Scaler
 <br> To fit and transform Numerical and Categorical Column values.
 
-# And then I made my model for the Prediction :
 
 
+# And then I made Dimentionality Reduction using PCA :
+_Dimensionality reduction is way to reduce the complexity of a model and avoid overfitting.<br><br>
+Principal Component Analysis (PCA) algorithm used to compress a dataset onto a lower-dimensional
+feature subspace with the goal of maintaining most of the relevant information._
+
+- Fitted the scaled data
+- Transformed it to meaningful columns for better analysis.
 
 
+# Now the Clusters :
+_Visualized the end predicted results using Clusters_
+- Visualizing it in reduced dimension.
 
 
+# Agglomerative clustering :
+- Fitted the model
+- Plotted the end result.
 
 
+# Now, Analyzed the above made clusters :
+_by distributing them into groups above and below_
+
+- _0: High spending and average income_
+- _1: High consumption and high income_
+- _2: Low spending and low income_
+- _3: High spending and low income_
+
+![customer2](https://user-images.githubusercontent.com/73397927/180948936-15959ea9-52db-4a6c-94e2-1c37ee45bd8e.jpg)
 
 
+## _And hence, made a final Cluster profile based on two basic features: Income and Expenditure._ 
+
+# _And for the conclusion -_
+### _From the above, we can say that the customer characters are segmented beautifully._
+---
 
 ![customer1](https://user-images.githubusercontent.com/73397927/180948924-aea304ec-8853-4d36-a03a-b48286782039.jpg)
-![customer2](https://user-images.githubusercontent.com/73397927/180948936-15959ea9-52db-4a6c-94e2-1c37ee45bd8e.jpg)
+
+---
