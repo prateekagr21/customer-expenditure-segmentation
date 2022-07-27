@@ -45,7 +45,7 @@ that positive customer relations can provide for your company._
 
 
 # For Visualizations, i used :
-- Visualizations were made by using Matplotlib and Seaborn Libraries..!!
+- Visualizations were made by using Matplotlib and Seaborn Libraries..!
 ![visualize](https://user-images.githubusercontent.com/73397927/175773985-a8800afe-f751-4d44-be82-45401a12e475.jpg)
 
 
@@ -53,7 +53,7 @@ that positive customer relations can provide for your company._
 # Did Data Pre-Processing and Feature Selection Engineering :
 - Made Binary Classifications Using :
 - Label Encoder 
-- and Standard Scaler
+- Standard Scaler
 <br> To fit and transform Numerical and Categorical Column values.
 
 
